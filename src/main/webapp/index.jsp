@@ -6,6 +6,7 @@
 <h3>Another title here</h3>
 <h2 style="color:red;">Automata is here</h2>
 <h2 style="color:blue;">Automata is here 50</h2>
+<h1 style="color:green;">Automata is here 60</h1>
 
 </body>
 </html>
