@@ -5,7 +5,7 @@
   <h4>Triggered by webhook from Github Commit!!</h4>
 <h3>Another title here</h3>
 <h2 style="color:red;">Automata is here</h2>
-<h2 style="blue:red;">Automata is here 49</h2>
+<h2 style="color:blue;">Automata is here 50</h2>
 
 </body>
 </html>
